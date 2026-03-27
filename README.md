@@ -391,7 +391,7 @@ For example, use:
 ```
 
 instead of a broader or incorrect pattern.
-<img width="840" height="252" alt="изображение" src="https://github.com/user-attachments/assets/06bee86b-bb3c-4904-98f3-f4c7a4020fab" />
+<img width="840" height="252" alt="screenshot" src="https://github.com/user-attachments/assets/06bee86b-bb3c-4904-98f3-f4c7a4020fab" />
 
 ---
 
